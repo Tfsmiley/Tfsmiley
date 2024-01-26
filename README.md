@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tfsmiley
-- 👀 I’m interested in ... Software and Game Development
-- 🌱 I’m currently learning ... to make interactive maps in Python
+- 👀 I’m interested in ... Software Website and Game Development
+- 🌱 I’m currently learning ... to make graphs using python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... by email Tyrek16@icloud.com
 
